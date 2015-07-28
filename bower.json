@@ -1,0 +1,26 @@
+{
+  "name": "jquery-ui-bootstrap",
+  "version": "1.0.0",
+  "authors": [
+    "jquery-ui-bootstrap"
+  ],
+  "description": "A jQuery UI theme based on Twitter Bootstrap",
+  "main": "css/custom-theme/jquery-ui-1.10.3.theme.css",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "jquery",
+    "ui",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
